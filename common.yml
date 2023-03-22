@@ -1,6 +1,0 @@
-- import_playbook: common.yml
-
-- name: configure web servers
-  hosts: cloud
-  roles:
-    - nginx
